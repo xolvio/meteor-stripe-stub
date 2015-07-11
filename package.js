@@ -1,6 +1,6 @@
 Package.describe({
   name: 'xolvio:stripe-stub',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Allows you to stub/restore Stripe at runtime for testing purposes',
   debugOnly: true
 });
